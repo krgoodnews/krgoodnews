@@ -1,6 +1,6 @@
 ##  iOS App Engineer📱
 
-## Personal Projects
+## 여러분~! 제가 만든 앱들 보고 가세요 😃
 
 ### 대충시계
 <img src="https://user-images.githubusercontent.com/8576087/96071385-ff139700-0edc-11eb-905a-607e027abe6c.png" width="50" height="50">
@@ -18,8 +18,6 @@
 - Open Source: [Github Repo](https://github.com/krgoodnews/instagramuploader)
 
 ---
-
-- 🔭 I’m currently working on [ST Unitas](https://www.stunitas.com/)
 
 <!--
 **krgoodnews/krgoodnews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
