@@ -1,8 +1,8 @@
-## Mobile Engineer / AI Native Engineer
+# Mobile Engineer📱 / AI Native Engineer🖥️
 ---
 
 
-### Contributes
+## Open Source Contributions
 
 [![Swift Composable Architecture](https://github-readme-stats.vercel.app/api/pin/?username=pointfreeco&repo=swift-composable-architecture)](https://github.com/pointfreeco/swift-composable-architecture)
 
