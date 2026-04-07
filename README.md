@@ -2,12 +2,6 @@
 ---
 
 
-## Open Source Contributions
-
-[![Swift Composable Architecture](https://github-readme-stats.vercel.app/api/pin/?username=pointfreeco&repo=swift-composable-architecture)](https://github.com/pointfreeco/swift-composable-architecture)
-
-[![SwipeableTabBarController](https://github-readme-stats.vercel.app/api/pin/?username=marcosgriselli&repo=SwipeableTabBarController)](https://github.com/marcosgriselli/SwipeableTabBarController)
-
 <!--
 **krgoodnews/krgoodnews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
